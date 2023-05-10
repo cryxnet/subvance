@@ -85,10 +85,6 @@ subvance.py [-h] [-o OUTPUT_FILE_PATH] [--cert-fingerprint] [--brute-force] [--g
 
 - Brute force guessing of subdomains by trying out common or random strings in the domain name
 
-#### Search Engine
-
-- With the power of google dorks, we collect indexed sudomains.
-
 ### Passive Techniques
 
 #### Certificate Fingerprinting
@@ -96,6 +92,10 @@ subvance.py [-h] [-o OUTPUT_FILE_PATH] [--cert-fingerprint] [--brute-force] [--g
 - Extracting subdomains from SSL/TLS certificates of a domain or its subdomains
 - Has data use we use the `crt.sh` database.
 - **Information:** Currently the crt.sh database is not available 100%. If it doesn't work it will display it in the logs: `ERROR - Failed certificate fingerprinting for domain: example.com with status code: 502 (or others)`
+
+#### Search Engine
+
+- With the power of google dorks, we collect indexed sudomains.
 
 ## Roadmap
 
