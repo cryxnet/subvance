@@ -7,9 +7,9 @@
   <h3 align="center">Subvance</h3>
 
   <p align="center">
-Subvance is a advance subdomain discovery tool that can actively or passively enumerate
-subdomains of a domain. It uses techniques like brute-forcing, web crawling, certificate fingerprinting,
-and querying PassiveDNS databases to generate a list of potential subdomains.
+Subvance is a advance subdomain discovery tool that can actively or passively discover
+subdomains of a domain. It uses techniques like brute-forcing, google dorks, certificate fingerprinting,
+and querying databases to generate a list of potential subdomains.
 The tool is efficient and can help improve overall security.
     <br />
     <a href="https://github.com/cryxnet/subvance"><strong>Explore the docs »</strong></a>
