@@ -93,7 +93,7 @@ subvance.py [-h] [-o OUTPUT_FILE_PATH] [--cert-fingerprint] [--brute-force] [--g
 - Has data use we use the `crt.sh` database.
 - **Information:** Currently the crt.sh database is not available 100%. If it doesn't work it will display it in the logs: `ERROR - Failed certificate fingerprinting for domain: example.com with status code: 502 (or others)`
 
-#### Search Engine
+#### Google Dorks
 
 - With the power of google dorks, we collect indexed sudomains.
 
