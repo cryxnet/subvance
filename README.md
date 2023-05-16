@@ -99,11 +99,23 @@ subvance.py [-h] [-o OUTPUT_FILE_PATH] [--cert-fingerprint] [--brute-force] [--g
 
 ## Roadmap
 
+-- Current State --
+
 - [x] Bruteforcing (active discovery)
 - [x] Google dorks discovery (passive discovery)
 - [x] Certificate Fingerprinting (passive discovery)
-- [ ] History of DNS Recrods (passive discovery)
-- [ ] looking for new techniques (active and passiv discovery)
+
+-- Passive --
+
+- [ ] DNS Aggregators
+- [ ] ASN Enumeration
+- [ ] Subject Alternate Name (SAN)
+
+-- Active --
+
+- [ ] Zone Transfer
+- [ ] DNS Records
+- [ ] Content Security Policy (CSP) Header
 
 ## Disclaimer
 
