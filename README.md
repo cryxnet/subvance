@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cryxnet/subvance">
-    <img src="assets/subvance.png" alt="Logo" width="100" height="50">
+    <img src="assets/subvance.jpg" alt="Logo" width="350" height="200">
   </a>
 
   <h3 align="center">Subvance</h3>
@@ -104,12 +104,6 @@ subvance.py [-h] [-o OUTPUT_FILE_PATH] [--cert-fingerprint] [--brute-force] [--g
 - [x] Bruteforcing (active discovery)
 - [x] Google dorks discovery (passive discovery)
 - [x] Certificate Fingerprinting (passive discovery)
-
--- Passive --
-
-- [ ] DNS Aggregators
-- [ ] ASN Enumeration
-- [ ] Subject Alternate Name (SAN)
 
 -- Active --
 
